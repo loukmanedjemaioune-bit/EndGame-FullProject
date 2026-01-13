@@ -34,11 +34,10 @@ The project focuses on implementing authentication using **JWT** and **password 
 - VS Code
 - Postman
 
-## ✨ Features
+##  Features
 - Secure user registration & login
 - Password hashing before storing in database
 - JWT generation on successful login
-- Protected routes using JWT middleware
 - CRUD operations
 - RESTful API design
 - Reusable frontend components
@@ -49,6 +48,7 @@ The project focuses on implementing authentication using **JWT** and **password 
 1. Navigate to backend folder
 2. Install dependencies:
 3. npm install
+
 Start the Backend app:
 npm run devapi
 
