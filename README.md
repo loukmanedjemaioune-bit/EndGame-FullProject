@@ -60,5 +60,4 @@ npm run devapi
 Start the frontend app:
 npm run dev
 
-   ```bash
-   npm install
+   
