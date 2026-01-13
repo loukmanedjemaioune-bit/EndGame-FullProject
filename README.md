@@ -1,10 +1,10 @@
 # 🎮 EndGame – Full-Stack Web Application
 
-## 🚀 Description
+##  Description
 EndGame is a full-stack web application designed to demonstrate secure backend development and modern frontend integration.  
 The project focuses on implementing authentication using **JWT** and **password hashing**, alongside a clean REST API and a dynamic frontend.
 
-## 🧠 What I Learned
+##  What I Learned
 - JWT-based authentication & authorization
 - Secure password hashing
 - Building RESTful APIs with Node.js & Express
@@ -13,7 +13,7 @@ The project focuses on implementing authentication using **JWT** and **password 
 - Clean project structure
 - Git & GitHub workflow
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - Node.js
@@ -49,6 +49,7 @@ The project focuses on implementing authentication using **JWT** and **password 
 1. Navigate to backend folder
 2. Install dependencies:
 3. npm install
+Start the Backend app:
 npm run devapi
 
 ### Frontend
